@@ -1,6 +1,7 @@
 # TextMath Library
 
 A C# library that converts English text descriptions of mathematical expressions into numerical calculations. This library allows users to perform mathematical operations using natural language input.
+A perfect solution for apps that target children who are learning numbers in numerical format from written word and vice-versa.
 
 ## Features
 
